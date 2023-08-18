@@ -7,4 +7,5 @@ IT関連の書籍の著者の共通の悩みかと思います。それを Docke
 
 このアイデアは書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」（小川雄太郎、マイナビ出版 、19/07/29)
 のサンプルプログラムの Github にあるサポートサイトで Docker を使った解決策を
-[第7章＆第8章　本書のファイルを変更せずローカル実行できるDockerイメージ #204](https://github.com/YutaroOgawa/pytorch_advanced/issues/204) を参考にさせて頂いてます。
+[第7章＆第8章　本書のファイルを変更せずローカル実行できるDockerイメージ #204](https://github.com/YutaroOgawa/pytorch_advanced/issues/204) 
+を参考にさせて頂いてます。
