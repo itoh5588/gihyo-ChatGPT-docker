@@ -6,5 +6,5 @@ services:
       - "8888:8888"
     volumes:
       - $PWD:/tmp/working
-    working_dir: /tmp/working
+    working_dir: /home/jovyan/gihyo-ChatGPT/notebooks
     command: jupyter lab --ip=0.0.0.0 --allow-root --no-browser
