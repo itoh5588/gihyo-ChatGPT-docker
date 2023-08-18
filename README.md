@@ -1,4 +1,4 @@
-# gihyo-ChatGPT-docker
+# langchain-chatgpt-docker
 
 書籍「ソフトウェア開発にChatGPTは使えるのか？」（小野哲、技術評論社 23/7/25）のサンプルプログラムを Docker で動作するのが目的です。
 
